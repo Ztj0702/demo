@@ -3,6 +3,6 @@
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("Hello --update by mm");
+        System.out.println("Hello --update by mm xxx");
     }
 }
